@@ -1,0 +1,9 @@
+twikit
+aiohttp
+requests
+playwright
+pyotp
+selenium
+selenium-wire
+blinker==1.6.3
+XClientTransaction
