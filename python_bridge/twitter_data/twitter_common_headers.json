@@ -1,0 +1,12 @@
+{
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+  "sec-ch-ua": "\"Not.A/Brand\";v=\"99\", \"Chromium\";v=\"136\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"macOS\"",
+  "authorization": "Bearer AAAAAAAAAAAAAAAAAAAAANRILgAAAAAAnNwIzUejRCOuH5E6I8xnZz4puTs%3D1Zv7ttfk8LF81IUq16cHjhLTvJu4FA33AGWWjCpTnA",
+  "referer": "https://x.com/",
+  "x-twitter-client-language": "en",
+  "x-twitter-active-user": "yes",
+  "content-type": "application/json",
+  "x-csrf-token": "84e6a54ca2ecdae2532945cdd91ac803d11c0871992a7bdbdb45a47b7cc1157508f2be13cf826cf05da46ab4051eda0f474a72c717cdf37da35939a1445dc557bd3a3c7c6f83d60762d662bcc777dbd8"
+}

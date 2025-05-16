@@ -1,8 +1,2 @@
-python_bridge/.DS_Store
-/python_bridge/__pycache__
-python_bridge/twitter_data/.DS_Store
-python_bridge/twitter_data/twitter_common_headers.json
-python_bridge/twitter_data/twitter_cookies.json
-python_bridge/twitter_data/twitter_headers.json
-python_bridge/twitter_data/twitter_home.html
-python_bridge/twitter_data/twitter_ondemand.js
+.DS_Store
+/__pycache__
